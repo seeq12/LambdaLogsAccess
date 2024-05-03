@@ -1,0 +1,2 @@
+requests
+seeq==64.2.1
